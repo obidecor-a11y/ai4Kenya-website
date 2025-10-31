@@ -1,1 +1,0 @@
-AI4Kenya final static site package. Replace Formspree action and logo.png as needed.
